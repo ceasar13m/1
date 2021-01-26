@@ -27,6 +27,7 @@ public class Coll {
         for (Object o : collection) {
             //  System.out.println(o);
         }
+        System.out.println( );
         List collection1 = new ArrayList();
         collection1.add("1");
         collection1.add("2");
@@ -69,4 +70,5 @@ class Student {
                 "name='" + name + '\'' +
                 '}';
     }
+
 }
