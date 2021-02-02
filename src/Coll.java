@@ -58,7 +58,7 @@ public class Coll {
         System.out.println(collection4.get("1"));
     }
 }
-class Student {
+class Student { //вот это что тут делает?
     String  name;
     public  Student( String name ) {
         this.name = name;
